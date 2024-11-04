@@ -4,8 +4,8 @@ Alternative keyboard case works with Memoria and Monorail PCB
 ![clear_van40](https://github.com/user-attachments/assets/412d8054-8d83-4a12-a063-9d29db8eb9f2)
 ![custard_van40](https://github.com/user-attachments/assets/e81657f1-52e0-4eee-bb8f-bf0caf77952b)
 
-Previews
-![VAN40_Top](https://github.com/user-attachments/assets/bd85de4e-eed8-4a45-9d88-99212b65e277)
-![VAN40_Mid](https://github.com/user-attachments/assets/756f7621-a197-478a-99d2-47a3a627d950)
-![VAN40_Bottom](https://github.com/user-attachments/assets/56c2dddd-ee8f-4170-8681-f2a6f5bbb5f7)
-![VAN40_Feet](https://github.com/user-attachments/assets/f1668468-256d-4d5a-a49b-952a1d57d542)
+# Previews
+![VAN40_Top](https://github.com/user-attachments/assets/fd211be0-a7b3-43d3-a654-3cb5d8b17a59)
+![VAN40_Mid](https://github.com/user-attachments/assets/96c89412-2091-4937-9dab-8f3a8868bae9)
+![VAN40_Bottom](https://github.com/user-attachments/assets/197919dc-dfbb-491c-8d58-ee754e4c81cc)
+![VAN40_Feet](https://github.com/user-attachments/assets/a4b3d42f-e297-40c9-a492-0ec49add638d)
