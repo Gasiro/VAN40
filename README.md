@@ -6,4 +6,5 @@ Alternative keyboard case works with Memoria and Monorail PCB
 
 # Previews
 ![VAN40](https://github.com/user-attachments/assets/12210bb6-970c-4954-ae55-ad2d379ec94b)
-![3ds v712](https://github.com/user-attachments/assets/588c1736-ce66-4e7a-b551-63a434ebed18)
+![3ds v712](https://github.com/user-attachments/assets/b3fa08dd-d498-4e34-b2db-f3f9caccbe4f)
+
