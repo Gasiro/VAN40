@@ -1,5 +1,5 @@
 # Van40
-Alternative keyboard case works with Memoria and Monorail PCB and **[Vam05 PCB](https://github.com/Gasiro/vam05_PCB)**
+Alternative keyboard case works with Memoria and [Monorail PCB](https://github.com/KiserDesigns/Monorail) and **[Vam05 PCB](https://github.com/Gasiro/vam05_PCB)**
 
 - Aluminum (with tapped drill holes)
 ![MDA](https://github.com/user-attachments/assets/16d3830c-02ab-4780-b57f-f8d2f6dc5c73)
