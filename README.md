@@ -1,4 +1,4 @@
-# VAN40 3D Printed keyboard case
+# Van40 3D Print Version
 Alternative keyboard case works with Memoria and Monorail PCB and vam05
 
 ![MDA](https://github.com/user-attachments/assets/16d3830c-02ab-4780-b57f-f8d2f6dc5c73)
