@@ -4,7 +4,7 @@ Alternative keyboard case works with Memoria and Monorail PCB and vam05
 ![MDA](https://github.com/user-attachments/assets/16d3830c-02ab-4780-b57f-f8d2f6dc5c73)
 ![clear_van40](https://github.com/user-attachments/assets/412d8054-8d83-4a12-a063-9d29db8eb9f2)
 
-# Version 3.0 (Blank version)
+# [Version 3.0](https://github.com/Gasiro/VAN40/releases/tag/switchcover) (Blank version)
 ### works with battery and side switch
 
 Hot inserts are necessary for the **3D print version**.
