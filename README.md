@@ -1,4 +1,4 @@
-# VAN40
+# Van40
 Alternative keyboard case works with Memoria and Monorail PCB and **[Vam05 PCB](https://github.com/Gasiro/vam05_PCB)**
 
 - Aluminum (with tapped drill holes)
@@ -11,6 +11,6 @@ works with battery and side switch
 ![pcversion](https://github.com/user-attachments/assets/83b9e65e-a6a7-4235-a278-530ea7e86b9c)
 ![aluversion](https://github.com/user-attachments/assets/7478dc77-ccf0-4d15-8e89-6eed27fe1054)
 
-# Version1.0 (no battery slot)
+# Version1.0
+no battery slot
 ![VAN40](https://github.com/user-attachments/assets/12210bb6-970c-4954-ae55-ad2d379ec94b)
-![3ds v712](https://github.com/user-attachments/assets/6a671490-eec6-490d-973e-f968e55c6d02)
